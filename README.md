@@ -1,13 +1,13 @@
-# PokerHandRangeCalculator
+# PokerProCalc
 
 [PokerHandRange](http://forestturner.github.io/PokerHandRangeCalc)
 
-This Calculator was a frontend project developed with React and Redux. 
+Frontend Project with React/Redux 
 
-See equities, combination counts, and hand value breakdowns: instantly. This Poker hand Range Calculator will help you learn flop textures, how ranges split up on boards, how equities shift on turn and river cards. A tool to learn and improve your Texas Poker Hold'em strategy.
+See equities, combination counts, and hand value breakdowns, all in real time. This Poker Odds Calculator will help you learn flop textures, how ranges split up on boards, how equities shift on turn and river cards. A tool to learn and improve your Texas Poker Hold'em strategy.
 
-First, we start with a preflop range.
-Get started by selecting a preflop range for the scenario you are analyzing.
+Start with a preflop range.
+Get started by selecting a preflop range for the scenario you are looking into.
 
 ## Features
 
