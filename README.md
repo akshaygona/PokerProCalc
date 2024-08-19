@@ -17,5 +17,3 @@ This Calculator uses react and redux to display and pass data around very smooth
 
 
 ![image of site](http://res.cloudinary.com/dnuopy1ir/image/upload/v1474874798/PokerHandCalc1.3_mgpp3w.png)
-# pokerprocalc
-# PokerProCalc
