@@ -1,5 +1,5 @@
 {
-  "name": "PokerHandRangeCalc",
+  "name": "PokerProCalc",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/forestturner/PokerHandRangeCalc.git"
+    "url": "git+https://github.com/akshaygona/PokerProCalc.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/forestturner/PokerHandRangeCalc/issues"
+    "url": "https://github.com/akshaygona/PokerProCalc/issues"
   },
-  "homepage": "https://github.com/forestturner/PokerHandRangeCalc#readme",
+  "homepage": "https://github.com/akshaygona/PokerProCalc#readme",
   "dependencies": {
     "babel-core": "^6.14.0",
     "babel-loader": "^6.2.5",
