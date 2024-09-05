@@ -1,7 +1,5 @@
 # PokerProCalc
 
-[PokerHandRange](http://forestturner.github.io/PokerHandRangeCalc)
-
 Frontend Project with React/Redux 
 
 See equities, combination counts, and hand value breakdowns, all in real time. This Poker Odds Calculator will help you learn flop textures, how ranges split up on boards, how equities shift on turn and river cards. A tool to learn and improve your Texas Poker Hold'em strategy.
